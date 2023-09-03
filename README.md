@@ -4,9 +4,9 @@ Handwritten Number Classification is an exciting project that explores the world
 
 
 ## Table of Contents
-Introduction
-Key Features
-Technologies Used
+- Introduction
+- Key Features
+- Technologies Used
 
 ## Introduction
 Handwritten Number Classification takes on the challenge of recognizing handwritten digits from 0 to 9. This task is essential in various applications, including digitizing handwritten documents, check processing, and more. The project's primary goal is to evaluate the effectiveness of traditional neural networks (ANN) and convolutional neural networks (CNN) for this classification task.
